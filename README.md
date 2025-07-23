@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨‍💻 codeunia-dev
 
-<!--
-**codeunia-dev/codeunia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> This is the official development & automation account for [Codeunia](https://codeunia.com) — a tech-driven student-led platform building smarter tools, communities, and opportunities for developers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About `codeunia-dev`
+
+This profile handles:
+- 🚀 CI/CD & deployment workflows
+- 🔁 GitHub Actions for contributor badges
+- 🧪 Test environments & feature staging
+- 🤖 Automation of backend tasks
+
+---
+
+## 🛡️ Ownership
+
+All repositories, scripts, and assets under `codeunia-dev` are **exclusively owned by [Codeunia](https://codeunia.com)**.  
+Use of any content without proper attribution or written permission is strictly prohibited.
+
+---
+
+## 💌 Contact
+
+📬 For permissions, partnerships, or support:  
+📧 connect@codeunia.com  
+🌐 [https://codeunia.com](https://codeunia.com)
